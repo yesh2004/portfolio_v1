@@ -16,7 +16,7 @@ const Hero = () => {
     <section class="mobile_hero">
         <div class="">
             <h1 class="hero_text">HI, I am Yeshwanth Kumar</h1>
-            <p>I am a an aspiring web devloper</p>
+            <p>I am a an aspiring web devloper. I am currently studying in SRM University<br/></p>
         </div>
         
         
